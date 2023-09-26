@@ -1,0 +1,28 @@
+.abc{
+    /* background-color:#6C63AC;
+    height: 60px; */
+}
+ul.nav {
+    padding-left: 0px;
+    background-color:#6C63AC;
+    text-align: center;
+  }
+  ul.nav > li {
+    display: inline-block;
+    padding: 10px 20px;
+  }
+  ul.nav > li:hover {
+    background-color: #2779BF;
+  }
+  ul.nav > li > a {
+    color: white;
+    text-decoration: none;
+  }
+  .btnclick{
+    background-color: #000000;
+    color: aliceblue;
+    height: 40px;
+    width: 90px;
+    border: none;
+    border-radius: 3px;
+  }
